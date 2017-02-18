@@ -1,4 +1,0 @@
-drupaltv
-========
-
-Drupal TV
